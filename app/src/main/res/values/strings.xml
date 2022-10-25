@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ugadayka</string>
+    <string name="first_text">Попробуй угадать чило от 1 до 100</string>
+    <string name="ahead">Перелёт</string>
+    <string name="no_ahead">Недолёт</string>
+    <string name="hit">В точку</string>
+    <string name="go">Нажать</string>
+    <string name="te_text">Введите число</string>
+    <string name="re_go">Поробывать ещё?</string>
+</resources>
